@@ -1,0 +1,6 @@
+{
+  "name": "Speed Pro",
+  "description": "GPS Speedometer, HUD mirror display, trip computer, odometer, and acceleration performance timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

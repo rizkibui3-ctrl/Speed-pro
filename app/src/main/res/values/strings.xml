@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Speed Pro</string>
+    <string name="nav_dashboard">Kokpit</string>
+    <string name="nav_juken">Juken 5+</string>
+    <string name="nav_performance">Tes 201m</string>
+    <string name="nav_trips">Riwayat</string>
+    <string name="nav_settings">Setelan</string>
+    <string name="gps_searching">Mencari Sinyal GPS…</string>
+    <string name="gps_locked">GPS Terkunci</string>
+    <string name="gps_permission_required">Izin Lokasi Diperlukan</string>
+    <string name="gps_permission_rationale">Speed Pro membutuhkan akses GPS presisi untuk mengukur kecepatan real-time, jarak tempuh, dan tes akselerasi motor matic.</string>
+    <string name="grant_location_permission">Aktifkan GPS</string>
+    <string name="trip_save">Simpan Trip</string>
+    <string name="trip_reset">Reset</string>
+</resources>
